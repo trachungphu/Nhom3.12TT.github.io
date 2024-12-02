@@ -66,7 +66,7 @@
     <div class="team">
         <!-- Thành viên 1 -->
         <div class="member">
-            <img src="https://www.facebook.com/photo/?fbid=1094411985641908&set=a.129034125513037" alt="Hình ảnh thành viên 1">
+            <img src="467741360_1094411988975241_318173132677453606_n.jpg" alt="Hình ảnh thành viên 1">
             <h3>Tăng Phúc Thiên Bảo</h3>
             <a href="https://www.facebook.com/thienbao2302/" target="_blank">Facebook</a>
         </div>
