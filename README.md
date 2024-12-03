@@ -84,7 +84,7 @@
         </div>
         <!-- Thành viên 4 -->
         <div class="member">
-            <img src="https://www.facebook.com/photo/?fbid=1163925231663083&set=a.104354424286841" alt="Hình ảnh thành viên 4">
+            <img src="https://hoinhabaobacgiang.vn/Includes/NewsImg/1_2024/29736_7-1-1626444923.jpg" alt="Hình ảnh thành viên 4">
             <h3>Trà Chung Phú</h3>
             <a href="https://trachungphu.github.io/tcp.github.io/" target="_blank">Giới thiệu học sinh</a>
         </div>
