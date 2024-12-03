@@ -86,13 +86,13 @@
         <div class="member">
             <img src="https://www.facebook.com/photo/?fbid=1163925231663083&set=a.104354424286841" alt="Hình ảnh thành viên 4">
             <h3>Trà Chung Phú</h3>
-            <a href="tcp.html" target="_blank">Giới thiệu học sinh</a>
+            <a href="https://trachungphu.github.io/tcp.github.io/" target="_blank">Giới thiệu học sinh</a>
         </div>
         <!-- Thành viên 5 -->
         <div class="member">
             <img src="462545431_583799810795475_6815358823630875842_n.jpg" alt="Hình ảnh thành viên 5">
             <h3>Phạm Ngọc Xuân Yến</h3>
-            <a href="pnxy.html" target="_blank">Giới thiệu học sinh</a>
+            <a href="https://trachungphu.github.io/pnxy.github.io/" target="_blank">Giới thiệu học sinh</a>
         </div>
     </div>
     <a href="cauvang.html">Quay lại Trang Thông Tin Bài làm</a>
