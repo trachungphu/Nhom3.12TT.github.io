@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -68,33 +69,33 @@
         <div class="member">
             <img src="467741360_1094411988975241_318173132677453606_n.jpg" alt="Hình ảnh thành viên 1">
             <h3>Tăng Phúc Thiên Bảo</h3>
-            <a href="https://www.facebook.com/thienbao2302/" target="_blank">Facebook</a>
+            <a href="tptb.html" target="_blank">Giới thiệu học sinh</a>
         </div>
         <!-- Thành viên 2 -->
         <div class="member">
             <img src="265441558_408042444345023_5930426404168105605_n.jpg" alt="Hình ảnh thành viên 2">
             <h3>Phạm Phúc Thịnh</h3>
-            <a href="https://www.facebook.com/profile.php?id=100054178110005" target="_blank">Facebook</a>
+            <a href="ppt.html" target="_blank">Giới thiệu học sinh</a>
         </div>
         <!-- Thành viên 3 -->
         <div class="member">
-            <img src="https://via.placeholder.com/100" alt="Hình ảnh thành viên 3">
+            <img src="8a01e279d39112703d2dc893b0c0699d.jpg" alt="Hình ảnh thành viên 3">
             <h3>Phan Nguyễn Bảo Khánh</h3>
-            <a href="https://www.facebook.com/socsnaau.hihi" target="_blank">Facebook</a>
+            <a href="pnbk.html" target="_blank">Giới thiệu học sinh</a>
         </div>
         <!-- Thành viên 4 -->
         <div class="member">
-            <img src="461165182_3804127103238518_1074846194109332916_n.jpg" alt="Hình ảnh thành viên 4">
+            <img src="461165182_3804127103238518_1074846194109332916_n copy.jpg" alt="Hình ảnh thành viên 4">
             <h3>Trà Chung Phú</h3>
-            <a href="https://www.facebook.com/profile.php?id=100041368508523" target="_blank">Facebook</a>
+            <a href="tcp.html" target="_blank">Giới thiệu học sinh</a>
         </div>
         <!-- Thành viên 5 -->
         <div class="member">
             <img src="462545431_583799810795475_6815358823630875842_n.jpg" alt="Hình ảnh thành viên 5">
             <h3>Phạm Ngọc Xuân Yến</h3>
-            <a href="https://www.facebook.com/profile.php?id=100029813313707" target="_blank">Facebook</a>
+            <a href="pnxy.html" target="_blank">Giới thiệu học sinh</a>
         </div>
     </div>
-<a href="https://trachungphu.github.io/mainwebgroup3.github.io/">Quay lại Trang Thông Tin Bài làm</a>
+    <a href="cauvang.html">Quay lại Trang Thông Tin Bài làm</a>
 </body>
 </html>
